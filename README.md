@@ -2,7 +2,7 @@
 
  - **求职意向**：前端工程师  |  成都 / 长沙 / 杭州
  - **学历**：湖南科技大学 - 计算机科学与技术系  |  本科（2016.09 - 2020.06）
- - **GitHub**：https://github.com/ZavierTang &nbsp;&nbsp;&nbsp;**博客**：http://blog.tangzhengwei.me &nbsp;&nbsp;&nbsp;**掘金**：[正伟_](https://juejin.im/user/5b0a64d8f265da0dc82324da/posts)
+ - **GitHub**：https://github.com/ZavierTang &nbsp;&nbsp;&nbsp;**博客**：http://zavier.cc &nbsp;&nbsp;&nbsp;**掘金**：[正伟_](https://juejin.im/user/5b0a64d8f265da0dc82324da/posts)
  - **手机**：187-7323-0057（湖南 · 湘潭）&nbsp;&nbsp;&nbsp;**邮箱**：Zavier-Tang@outlook.com &nbsp;&nbsp;&nbsp;**微信**：bwcx_zw
 
 > **自我简介**：性格外向随和，具有良好的语言表达能力和沟通能力，能快速融入团队适应新的环境；一个完美主义者，有较强的自学能力和好奇心，热爱学习新的知识；热爱摄影，喜欢电影、读书、篮球，同时喜欢旅行。

@@ -40,3 +40,7 @@ Web 端的后台管理系统，采用 <span style="color:#ab4642">**Vue.js**</sp
 
 ## 致谢
 感谢您花费宝贵的时间阅读我的简历，期待能有机会与您共事。
+
+
+
+[下载](http://zavier.cc/resume/resume.pdf)此简历。
